@@ -1,0 +1,2 @@
+Amazon_Reviews .html file contains the html downloaded page of the code ran in ananconda jupyter notebook.
+Amazon_Reviews.ipynb file contains the python notebook file which can only be ran in anaconda jupyter notebook.
